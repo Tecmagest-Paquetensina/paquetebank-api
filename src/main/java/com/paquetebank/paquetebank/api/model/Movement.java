@@ -1,5 +1,7 @@
 package com.paquetebank.paquetebank.api.model;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+
 import java.time.LocalDateTime;
 
 import javax.persistence.Column;
